@@ -25,7 +25,7 @@ setup(
     ],
     description='An secure clipboard for sharing secrets',
     install_requires=[
-        'Flask==1.1.1',
+        'Flask==2.2.5',
         'flask_limiter==1.1.0',
         'redis==3.3.11'
     ],
